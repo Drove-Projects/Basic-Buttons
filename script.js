@@ -1,6 +1,7 @@
-
-
-
+/*
+* Funciones globales de botones
+* Funciones
+*/
 
 //Funtion: How To Create a Scroll To Top Button//
 //Get the button:
